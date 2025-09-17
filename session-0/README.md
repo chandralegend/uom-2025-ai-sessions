@@ -14,3 +14,4 @@
 3. Open the project folder in Visual Studio Code (`code .`)
 4. Create a folder for each session (e.g., `session-0`, `session-1`, etc.)
 5. Inside each session folder, create a `README.md` file for notes and instructions
+
