@@ -27,3 +27,15 @@ By following this lifecycle, we can:
 2. Remove unwanted observations
 3. Handle missing values
 4. Manage outliers
+
+##### Data Formatting
+- Converting your input data into standard formats or structures that can be easily processed by machine learning algorithms.\
+- In our case, we go through scaling, normalization, encoding categorical variables (One Hot Encoding), etc.
+
+1. Min Max Scaling
+   - Rescales features to a fixed range, usually 0 to 1.
+   - Formula: X_scaled = (X - X_min) / (X_max - X_min)
+
+2. Standardization (Z-score Normalization)
+   - Centers the feature by subtracting the mean and scaling to unit variance.
+   - Formula: X_standardized = (X - μ) / σ
