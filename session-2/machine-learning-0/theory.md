@@ -39,3 +39,7 @@ By following this lifecycle, we can:
 2. Standardization (Z-score Normalization)
    - Centers the feature by subtracting the mean and scaling to unit variance.
    - Formula: X_standardized = (X - μ) / σ
+
+Data Cleaning Tools:
+- Python Libraries: Pandas, NumPy
+- Data Cleaning Tools: OpenRefine, Trifacta
